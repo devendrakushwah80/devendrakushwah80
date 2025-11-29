@@ -73,11 +73,4 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devendrakushwah80&show_icons=true&theme=dark"/>
-</p>
-
----
-
 ✨ *Learning AI & ML one project at a time.*
