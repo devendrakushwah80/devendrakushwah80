@@ -34,31 +34,31 @@
 
 ## 🛠 Skills & Tools
 <p>
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
-  <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer">
+  <a href="https://numpy.org/" target="_blank">
     <img src="https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer">
+  <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas"/>
   </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer">
+  <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
   </a>
-  <a href="https://keras.io/" target="_blank" rel="noopener noreferrer">
+  <a href="https://keras.io/" target="_blank">
     <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras"/>
   </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
   </a>
-  <a href="https://opencv.org/" target="_blank" rel="noopener noreferrer">
+  <a href="https://opencv.org/" target="_blank">
     <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv"/>
   </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer">
+  <a href="https://jupyter.org/" target="_blank">
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
   </a>
-  <a href="https://streamlit.io/" target="_blank" rel="noopener noreferrer">
+  <a href="https://streamlit.io/" target="_blank">
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
   </a>
 </p>
@@ -75,7 +75,9 @@
 ---
 
 ## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=devendrakushwah80&theme=radical&margin-w=8"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devendrakushwah80&theme=radical&margin-w=8"/>
+</p>
 
 ---
 
@@ -95,11 +97,11 @@
 
 ---
 
-## ✍️ Random Dev Quote
-
+## ✍️ AI Quote
 <p align="center">
-  <img src="https://github-readme-quotes.vercel.app/quote?theme=dark&quote=Artificial%20intelligence%20is%20the%20science%20of%20making%20machines%20do%20things%20that%20would%20require%20intelligence%20if%20done%20by%20people.&author=Marvin%20Minsky" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+intelligence+is+the+science+of+making+machines+do+things+that+would+require+intelligence+if+done+by+people.;—+Marvin+Minsky" />
 </p>
+
 ---
 
 ✨ *Learning Artificial Intelligence one project at a time.*
