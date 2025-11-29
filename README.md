@@ -96,8 +96,10 @@
 ---
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<p align="center">
+  <img src="https://github-readme-quotes.vercel.app/quote?theme=dark&quote=Artificial%20intelligence%20is%20the%20science%20of%20making%20machines%20do%20things%20that%20would%20require%20intelligence%20if%20done%20by%20people.&author=Marvin%20Minsky" />
+</p>
 ---
 
 ✨ *Learning Artificial Intelligence one project at a time.*
