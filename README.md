@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=520&lines=Artificial+Intelligence+%26+Machine+Learning;Deep+Learning+Enthusiast;Python+for+Data+Science;Learning+by+Building+Projects" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=520&lines=Artificial+Intelligence+%26+Machine+Learning;Deep+Learning+Enthusiast;Python+for+Data+Science;Power+BI+%7C+Data+Visualization;Learning+by+Building+Projects" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 - 🎓 **B.Tech CSE (Artificial Intelligence & Machine Learning) Student**
 - 🤖 Passionate about **AI, Machine Learning & Deep Learning**
 - 🐍 Python-focused learner
-- 📊 Interested in **Data Analysis & Visualization**
+- 📊 Interested in **Data Analysis, Power BI & Visualization**
 - 🚀 Learning by building **real-world projects**
 
 ---
@@ -61,6 +61,10 @@
   <a href="https://streamlit.io/" target="_blank">
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
   </a>
+  <!-- ⭐ Added Power BI -->
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  </a>
 </p>
 
 ---
@@ -68,6 +72,7 @@
 ## 📌 What I’m Working On
 - ✅ Machine Learning projects  
 - ✅ Data analysis & visualization  
+- ✅ Power BI dashboards  
 - ✅ Kaggle notebooks & competitions  
 - ✅ Deep Learning fundamentals  
 - ✅ AI academic & personal projects  
