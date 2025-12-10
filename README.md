@@ -27,7 +27,7 @@
 - 🎓 **B.Tech CSE (Artificial Intelligence & Machine Learning) Student**
 - 🤖 Passionate about **AI, Machine Learning & Deep Learning**
 - 🐍 Python-focused learner
-- 📊 Interested in **Data Analysis, Power BI & Visualization**
+- 📊 Interested in **Data Analysis, Power BI & Visualizations,Computer vision,generative AI**
 - 🚀 Learning by building **real-world projects**
 
 ---
