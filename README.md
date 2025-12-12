@@ -104,7 +104,7 @@
 
 ## ✍️ AI Quote
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=Artificial+intelligence+is+the+science+of+making+machines+do+things+that+would+require+intelligence+if+done+by+people.;—+John+McCarthy;You+are+the+average+of+the+five+people+you+spend+the+time+most+with.;—+Jim+Rohn" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=Artificial+intelligence+is+the+science+of+making+machines+do+things+that+would+require+intelligence+if+done+by+people.;—+John+McCarthy;You+are+the+average+of+the+five+people+you+spend+the+time+most+with.;—+Jim+Rohn;The+scientific+man+does+not+aim+at+an+immediate+result.;—+Karl+Pearson" />
 </p>
 
 ---
