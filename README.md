@@ -27,7 +27,7 @@
 - 🎓 **B.Tech CSE (Artificial Intelligence & Machine Learning) Student**
 - 🤖 Passionate about **AI, Machine Learning & Deep Learning**
 - 🐍 Python-focused learner
-- 📊 Interested in **Data Analysis, Power BI & Visualizations,Computer vision,generative AI**
+- 📊 Interested in **Data Analysis, Power BI & Visualizations, Computer Vision, Generative AI**
 - 🚀 Learning by building **real-world projects**
 
 ---
@@ -61,7 +61,6 @@
   <a href="https://streamlit.io/" target="_blank">
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
   </a>
-  <!-- ⭐ Added Power BI -->
   <a href="https://powerbi.microsoft.com/" target="_blank">
     <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   </a>
@@ -79,18 +78,17 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔥 GitHub Streaks
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devendrakushwah80&theme=radical&margin-w=8"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devendrakushwah80&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devendrakushwah80&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devendrakushwah80&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devendrakushwah80&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=devendrakushwah80&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devendrakushwah80&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -109,4 +107,4 @@
 
 ---
 
-✨ *Learning Artificial Intelligence one project at a time.*
+✨ <i>Learning Artificial Intelligence one project at a time.</i>
