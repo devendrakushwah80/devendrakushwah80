@@ -78,11 +78,12 @@
 
 ---
 
-## 🔥 GitHub Streaks
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=devendrakushwah80&theme=radical&hide_border=true"/>
-</p>
-
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=devendrakushwah80&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+  />
+</div>
 ---
 
 ## 📊 GitHub Stats
