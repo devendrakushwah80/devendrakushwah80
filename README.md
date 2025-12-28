@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  🎓 B.Tech CSE (AI & ML) Student | 🤖 Aspiring AI Engineer | 📊 Data Science Learner
+  🎓 B.Tech CSE (AI & ML) Student | 🤖 Aspiring AI Engineer | 📊 Data Science & ML Enthusiast
 </h3>
 
 <p align="center">
@@ -18,6 +18,9 @@
   </a>
   <a href="https://www.kaggle.com/devendrakushwah08" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Kaggle-Devendra%20Kushwah-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="https://github.com/devendrakushwah80" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-devendrakushwah80-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -79,7 +82,6 @@
 ---
 
 ## 🔥 GitHub Streaks
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=devendrakushwah80&theme=radical&hide_border=true)
 
 ---
