@@ -32,39 +32,26 @@ Hi 👋, I'm Devendra Kushwah
 
 ---
 
-## 🛠 Skills & Tools
-<p>
-<a href="https://www.python.org/" target="_blank">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</a>
-<a href="https://numpy.org/" target="_blank">
-<img src="https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
-</a>
-<a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas"/>
-</a>
-<a href="https://scikit-learn.org/" target="_blank">
-<img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
-</a>
-<a href="https://keras.io/" target="_blank">
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras"/>
-</a>
-<a href="https://www.tensorflow.org/" target="_blank">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
-</a>
-<a href="https://opencv.org/" target="_blank">
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv"/>
-</a>
-<a href="https://jupyter.org/" target="_blank">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
-</a>
-<a href="https://streamlit.io/" target="_blank">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
-</a>
-<a href="https://powerbi.microsoft.com/" target="_blank">
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</a>
-</p>
+### 📊 Data Analysis & Visualization  
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-5A9?style=for-the-badge)](https://seaborn.pydata.org/)
+[![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+
+### 🤖 Machine Learning & AI  
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![EDA](https://img.shields.io/badge/EDA-00C853?style=for-the-badge)](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
+[![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-9C27B0?style=for-the-badge)](https://en.wikipedia.org/wiki/Feature_engineering)
+[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)](https://www.deeplearning.ai/)
+
+### ⚙️ Tools & Platforms  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)](https://jupyter.org/)
+[![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/)
 
 ---
 
