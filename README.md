@@ -68,15 +68,6 @@ Hi 👋, I'm Devendra Kushwah
 ## 🔥 GitHub Streaks
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=devendrakushwah80&theme=radical&hide_border=true)
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=devendrakushwah80&show_icons=true&theme=radical&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devendrakushwah80&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
 ---
 
 ## 🐍 Contribution Snake
