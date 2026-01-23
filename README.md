@@ -70,13 +70,6 @@ Hi 👋, I'm Devendra Kushwah
 ![GitHub Streak](https://streak-stats.demolab.com?user=devendrakushwah80&theme=radical&hide_border=true)
 ---
 
-## 🐍 Contribution Snake
-<div align="center">
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake animation"/>
-</div>
-
----
-
 ## ✍️ AI Quote
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=Artificial+intelligence+is+the+science+of+making+machines+do+things+that+would+require+intelligence+if+done+by+people.;—+John+McCarthy;You+are+the+average+of+the+five+people+you+spend+the+time+most+with.;—+Jim+Rohn;The+scientific+man+does+not+aim+at+an+immediate+result.;—+Karl+Pearson" />
