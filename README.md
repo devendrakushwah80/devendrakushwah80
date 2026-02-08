@@ -23,12 +23,24 @@ Hi 👋, I'm Devendra Kushwah
 
 ---
 
+## Devendra Kushwah – Official GitHub Profile
+
+This is the **official GitHub profile of Devendra Kushwah**, a **B.Tech CSE (AI & ML) student from India**.
+Here I share my work in **Data Science, Machine Learning, Artificial Intelligence, Python projects, Power BI dashboards, and Kaggle notebooks**.
+
+🔗 GitHub Profile: https://github.com/devendrakushwah80  
+🔗 LinkedIn: https://www.linkedin.com/in/devendrakushwah80/
+
+---
+
 ## 🧠 About Me
 - 🎓 **B.Tech CSE (Artificial Intelligence & Machine Learning) Student**
 - 🤖 Passionate about **AI, Machine Learning & Deep Learning**
 - 🐍 Python-focused learner
 - 📊 Interested in **Data Analysis, Power BI & Visualizations, Computer Vision, Generative AI**
 - 🚀 Learning by building **real-world projects**
+- 👨‍💻 GitHub Username: **devendrakushwah80**
+- 🌐 This GitHub profile represents my academic and personal AI & ML projects
 
 ---
 
@@ -68,6 +80,7 @@ Hi 👋, I'm Devendra Kushwah
 ## 🔥 GitHub Streaks
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=devendrakushwah80&theme=radical&hide_border=true)
+
 ---
 
 ## ✍️ AI Quote
@@ -76,5 +89,8 @@ Hi 👋, I'm Devendra Kushwah
 </p>
 
 ---
+
+**Devendra Kushwah GitHub**  
+Official GitHub profile of Devendra Kushwah – AI & Machine Learning student from India.
 
 ✨ <i>Learning Artificial Intelligence one project at a time.</i>
