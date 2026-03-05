@@ -3,7 +3,7 @@ Hi 👋, I'm Devendra Kushwah
 </h1>
 
 <h3 align="center">
-🎓 B.Tech CSE (AI & ML) Student | 🤖 Aspiring AI Engineer | 📊 Data Science Learner
+🎓 B.Tech CSE (AI & ML) Student | 🤖 Aspiring ML Engineer | 📊 Data Science Learner
 </h3>
 
 <p align="center">
