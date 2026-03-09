@@ -57,6 +57,7 @@ Here I share my work in **Data Science, Machine Learning, Artificial Intelligenc
 [![EDA](https://img.shields.io/badge/EDA-00C853?style=for-the-badge)](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
 [![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-9C27B0?style=for-the-badge)](https://en.wikipedia.org/wiki/Feature_engineering)
 [![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)](https://www.deeplearning.ai/)
+[![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF4081?style=for-the-badge)](https://en.wikipedia.org/wiki/Computer_vision)
 
 ### ⚙️ Tools & Platforms  
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
