@@ -27,8 +27,7 @@ Hi 👋, I'm Devendra Kushwah
 
 This is the **official GitHub profile of Devendra Kushwah**, a **B.Tech CSE (AI & ML) student from India**.
 Here I share my work in **Data Science, Machine Learning, Artificial Intelligence, Python projects, Power BI dashboards, and Kaggle notebooks**.
-
-🔗 GitHub Profile: https://github.com/devendrakushwah80  
+  
 🔗 LinkedIn: https://www.linkedin.com/in/devendrakushwah80/
 
 ---
