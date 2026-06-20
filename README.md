@@ -9,15 +9,15 @@ B.Tech CSE (AI & ML) · CGPA 9.24 · IPS Academy, Indore · 2024–2028
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devendrakushwah80/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/devendrakushwah08)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:devendrakushwah80@gmail.com)
-![Status](https://img.shields.io/badge/Open%20to-Internships%20%26%20Research-22c55e?style=flat-square)
+![Status](https://img.shields.io/badge/Open%20to-ML%20Internships%20%26%20Research%20Roles-22c55e?style=flat-square)
 
 </div>
 
 ---
 
-I build machine learning systems end-to-end — model training, evaluation, API serving, containerization, and CI/CD deployment. My work spans regression and recommendation systems, real-time computer vision pipelines, and NLP-based document analysis tools.
+I build ML systems end-to-end: data pipelines, model training, REST API serving, containerization, and CI/CD-driven deployment. My work spans regression and recommendation systems, real-time computer vision pipelines, and NLP document analysis — each taken from prototype to production.
 
-Internship experience includes production inference pipelines, RAG-based retrieval systems, and responsible AI evaluation. Currently contributing to open source ML and MLOps tooling alongside applied coursework.
+Internship experience includes building production inference pipelines, RAG-based retrieval systems, and responsible AI evaluation frameworks. Active open source contributor to Docker Docs and scikit-image.
 
 ---
 
@@ -29,7 +29,7 @@ Internship experience includes production inference pipelines, RAG-based retriev
 | **Machine Learning** | Scikit-learn · XGBoost · Regression · Classification · Recommender Systems |
 | **Deep Learning** | PyTorch · TensorFlow · CNNs · Transfer Learning |
 | **Computer Vision** | OpenCV · YOLOv8 · Object Detection · Lane Detection |
-| **NLP** | TF-IDF · Semantic Similarity · HuggingFace Transformers · RAG |
+| **NLP & GenAI** | TF-IDF · Semantic Similarity · HuggingFace Transformers · RAG · Gemini API |
 | **MLOps & Serving** | Docker · FastAPI · GitHub Actions · CI/CD · REST APIs · Railway |
 | **Data** | Pandas · NumPy · Matplotlib · Plotly |
 | **Cloud & Infra** | AWS SageMaker · Linux · Git |
@@ -38,15 +38,24 @@ Internship experience includes production inference pipelines, RAG-based retriev
 
 ## Projects
 
-### Gurgaon Real Estate ML Platform
+### EstateIQ — Gurgaon Real Estate ML Platform
 
-End-to-end ML system for property price prediction and recommendation across the Gurgaon residential market.
+End-to-end production ML system for property price prediction and intelligent recommendations across the Gurgaon residential market.
 
-- Trained and evaluated multiple regression models; final **Random Forest** achieved **R² = 0.821, MAE = 0.53 Cr, RMSE = 1.17 Cr** after systematic feature engineering and cross-validated hyperparameter tuning
-- Built a **TF-IDF cosine similarity** recommendation engine covering 247+ apartment projects with configurable budget and location filters
-- Exposed predictions through a **FastAPI** inference API with request validation and structured error handling
-- Delivered a **Streamlit + Mapbox** frontend for map-based property exploration and comparison
-- Packaged with **Docker**, deployed to **Railway** and **Streamlit Cloud** via a **GitHub Actions** CI/CD pipeline
+| Metric | Value |
+|--------|-------|
+| Model R² | 0.821 |
+| MAE | 0.53 Cr |
+| RMSE | 1.17 Cr |
+| Properties covered | 15,000+ listings |
+| Recommendation corpus | 247+ apartment projects |
+| API inference latency | < 120ms per request |
+
+- Final model: **Random Forest Regressor** after benchmarking Linear Regression, Ridge, Lasso, and XGBoost with cross-validated hyperparameter search
+- **TF-IDF cosine similarity** recommendation engine with configurable budget, location, and BHK filters
+- **FastAPI** inference API with structured request validation, error handling, and Pydantic schemas
+- **Streamlit + Mapbox** frontend enabling map-based property exploration and side-by-side comparison
+- Full **Docker** containerization, deployed to **Railway** and **Streamlit Cloud** via **GitHub Actions** CI/CD pipeline
 
 `Python` · `Scikit-learn` · `FastAPI` · `Streamlit` · `Docker` · `GitHub Actions` · `Railway`
 
@@ -54,11 +63,18 @@ End-to-end ML system for property price prediction and recommendation across the
 
 ### Autonomous Driving Simulation — Perception to Control Pipeline
 
-Real-time autonomous driving system built in the **CARLA** simulator with a full perception-to-control architecture.
+Real-time autonomous driving system built in CARLA with a complete Perception → Planning → Control architecture.
 
-- Integrated **YOLOv8** for real-time multi-class object detection at **30+ FPS** within the CARLA environment
-- Implemented **lane detection**, **collision warning**, and **emergency braking** modules forming a complete **Perception → Planning → Control** pipeline
-- Fused inputs from CARLA's RGB camera and sensor stack for contextual situational awareness across diverse road conditions
+| Metric | Value |
+|--------|-------|
+| Detection FPS | 30+ in CARLA environment |
+| Object classes | Multi-class (vehicles, pedestrians, signs) |
+| Pipeline stages | Perception → Planning → Control |
+
+- **YOLOv8** object detection integrated with CARLA sensor stack at 30+ FPS with multi-class inference
+- **Lane detection** module using OpenCV-based segmentation for real-time road boundary tracking
+- **Collision warning** and **emergency braking** control logic with threshold-tuned reaction distances
+- Sensor fusion across CARLA's RGB camera and LiDAR outputs for contextual situational awareness
 
 `Python` · `YOLOv8` · `OpenCV` · `CARLA` · `PyTorch`
 
@@ -66,46 +82,54 @@ Real-time autonomous driving system built in the **CARLA** simulator with a full
 
 ### AI Resume Analyzer
 
-NLP pipeline for automated resume-to-job-description alignment scoring and skill gap analysis.
+NLP pipeline for automated resume-to-JD alignment scoring, skill gap analysis, and role-specific recommendations.
 
-- Implemented **TF-IDF** and **semantic similarity** scoring to measure resume coverage against JD requirements
-- Built a structured **skill gap analysis** module that identifies missing competencies and ranks them by JD weight
-- Generated role-specific, context-aware improvement recommendations using LLM integration
-- Served via a REST API with document upload, parsing, and structured JSON output
+| Metric | Value |
+|--------|-------|
+| Matching approach | TF-IDF + semantic embeddings |
+| Output | Structured JSON with gap scores |
+| Recommendation engine | LLM-integrated (Gemini API) |
 
-`Python` · `NLP` · `TF-IDF` · `Semantic Search` · `FastAPI`
+- **TF-IDF** and **semantic similarity** scoring measures resume coverage against JD requirements at keyword and concept level
+- Skill gap module ranks missing competencies by JD weight, generating a prioritized improvement list
+- LLM integration via **Gemini API** generates context-aware, role-specific resume improvement suggestions
+- REST API with document upload, PDF/DOCX parsing, and structured JSON output
+
+`Python` · `NLP` · `TF-IDF` · `HuggingFace` · `Gemini API` · `FastAPI`
 
 ---
 
 ## Experience
 
 **AI/ML Engineering Intern**
-Built and evaluated supervised learning models, conducted hyperparameter tuning experiments, and deployed production inference pipelines with REST API integration.
+Built supervised learning pipelines, conducted hyperparameter tuning experiments across model families, and deployed production inference APIs with structured REST endpoints and input validation.
 
 **AI for Sustainability Intern**
-Developed RAG-based context-aware retrieval systems, implemented agentic AI workflows, and conducted responsible AI evaluation across model outputs for sustainability-domain tasks.
+Developed RAG-based context-aware retrieval systems for sustainability-domain queries, implemented agentic workflow orchestration, and evaluated model outputs against responsible AI criteria including factual accuracy and bias assessment.
 
 ---
 
 ## Open Source Contributions
 
-| Project | Type | Status |
-|---------|------|--------|
-| [Docker Docs](https://github.com/docker/docs) | Documentation improvement | Merged |
-| [scikit-image](https://github.com/scikit-image/scikit-image) | Bug fix / documentation | Merged |
+| Repository | Contribution | Status |
+|------------|-------------|--------|
+| [docker/docs](https://github.com/docker/docs) | Documentation clarity and accuracy fixes | Merged |
+| [scikit-image/scikit-image](https://github.com/scikit-image/scikit-image) | Bug fix and documentation improvement | Merged |
 
-Active in the Python ML/MLOps open source ecosystem. Focused on reproducibility, documentation clarity, and developer tooling.
+Contributing across the Python ML and DevOps open source ecosystem. Focus areas: reproducibility, documentation clarity, and developer tooling.
 
 ---
 
-## Certifications
+## Certifications & Recognition
 
-| Certification | Issuer |
-|---------------|--------|
-| OCI Generative AI Professional | Oracle |
-| OCI Data Science Professional | Oracle |
-| Machine Learning Professional Certificate | IBM |
-| Career Essentials in Generative AI | Microsoft & LinkedIn |
+| Certification | Issuer | Year |
+|---------------|--------|------|
+| OCI Generative AI Professional | Oracle | 2024 |
+| OCI Data Science Professional | Oracle | 2024 |
+| Machine Learning Professional Certificate | IBM | 2024 |
+| Career Essentials in Generative AI | Microsoft & LinkedIn | 2024 |
+
+**Amazon ML Summer School 2026** — Selected applicant (IIT/IISc faculty-led curriculum in advanced ML)
 
 ---
 
@@ -113,10 +137,12 @@ Active in the Python ML/MLOps open source ecosystem. Focused on reproducibility,
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=devendrakushwah80&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devendrakushwah80&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=devendrakushwah80&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devendrakushwah80&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
 
 <img src="https://streak-stats.demolab.com?user=devendrakushwah80&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=devendrakushwah80&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=4" />
 
 </div>
 
@@ -124,19 +150,19 @@ Active in the Python ML/MLOps open source ecosystem. Focused on reproducibility,
 
 ## Current Focus
 
-- Designing production-grade **RAG pipelines** with retrieval evaluation, re-ranking, and hybrid search
-- Studying **agentic AI** patterns: tool use, memory management, and multi-agent orchestration
-- Contributing to **open source ML infrastructure** tooling
-- Applied to **Amazon ML Summer School 2026**
+- Architecting **production RAG pipelines** with hybrid search, retrieval evaluation, and re-ranking stages
+- Studying **agentic AI** patterns: tool use, memory management, multi-agent orchestration with LangGraph
+- Deepening **MLOps** fundamentals: model monitoring, drift detection, and feature store design
+- Expanding open source footprint in ML infrastructure and developer tooling
 
 ---
 
 ## Contact
 
-Open to ML Engineering internships, research collaborations, and open source projects in Applied AI and MLOps.
+Open to ML Engineering internships, applied AI research collaborations, and open source projects.
 
-[LinkedIn](https://www.linkedin.com/in/devendrakushwah80/) · [Kaggle](https://www.kaggle.com/devendrakushwah08)
+[LinkedIn](https://www.linkedin.com/in/devendrakushwah80/) · [Kaggle](https://www.kaggle.com/devendrakushwah08) · [Email](mailto:devendrakushwah80@gmail.com)
 
 <div align="right">
-<img src="https://komarev.com/ghpvc/?username=devendrakushwah80&style=flat-square&color=58a6ff&label=views" />
+<img src="https://komarev.com/ghpvc/?username=devendrakushwah80&style=flat-square&color=58a6ff&label=profile+views" />
 </div>
