@@ -7,11 +7,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Machine+Learning+Engineer;Building+Production+AI+Systems;Computer+Vision+%7C+MLOps+%7C+RAG;Open+Source+Contributor;AI%2FML+Engineering+Intern" />
 
-<br><br>
+<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=devendrakushwah80&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
+<div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/devendrakushwah80?style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=devendrakushwah80&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
+
+<img src="https://img.shields.io/github/followers/devendrakushwah80?style=for-the-badge" />
 
 </div>
 
@@ -22,10 +24,6 @@
 🎓 **B.Tech CSE (AI & ML)** • CGPA **9.24** • IPS Academy, Indore
 
 🏆 OCI Generative AI Professional • 🌍 Open Source Contributor • 💼 AI/ML Intern
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devendrakushwah80/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/devendrakushwah08)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dk3313250@gmail.com)
 
 ---
 
@@ -361,18 +359,20 @@ F --> G[JSON Output]
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devendrakushwah80)
+<a href="https://www.linkedin.com/in/devendrakushwah80">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/devendrakushwah08)
+<a href="https://www.kaggle.com/devendrakushwah08">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dk3313250@gmail.com)
+<a href="mailto:dk3313250@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-</div>
-
----
-
-<div align="center">
-
-### 💡 Building Production AI Systems, One Project at a Time
+<a href="https://github.com/devendrakushwah80">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
