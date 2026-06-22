@@ -9,15 +9,10 @@
 
 <br>
 
-<div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=devendrakushwah80&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
-
 <img src="https://img.shields.io/github/followers/devendrakushwah80?style=for-the-badge" />
 
 </div>
-
-# Devendra Kushwah
 
 ### Machine Learning Engineer • MLOps • Computer Vision
 
@@ -131,27 +126,6 @@ Storage
 
 End-to-end production machine learning platform for property valuation and intelligent recommendations.
 
-### Architecture
-
-```mermaid
-flowchart LR
-
-A[Raw Property Data]
---> B[Feature Engineering]
-
-B --> C[Model Training]
-
-C --> D[Random Forest Model]
-
-D --> E[FastAPI]
-
-E --> F[Docker]
-
-F --> G[Railway Deployment]
-
-E --> H[Streamlit Dashboard]
-```
-
 ### Key Metrics
 
 | Metric | Value |
@@ -175,32 +149,13 @@ E --> H[Streamlit Dashboard]
 
 `Python` • `Scikit-learn` • `FastAPI` • `Docker` • `Streamlit` • `Railway`
 
+🔗 Repository: https://github.com/devendrakushwah80/gurgaon-real-estate-ml
+
 ---
 
 ### 🚗 Autonomous Driving Simulation
 
 Real-time Perception → Planning → Control pipeline built using CARLA.
-
-### Architecture
-
-```mermaid
-flowchart LR
-
-A[RGB Camera]
---> B[YOLOv8]
-
-A --> C[Lane Detection]
-
-B --> D[Perception Layer]
-
-C --> D
-
-D --> E[Planning]
-
-E --> F[Vehicle Control]
-
-F --> G[Brake / Steering]
-```
 
 ### Highlights
 
@@ -215,32 +170,13 @@ F --> G[Brake / Steering]
 
 `Python` • `YOLOv8` • `OpenCV` • `CARLA` • `PyTorch`
 
+🔗 Repository: https://github.com/devendrakushwah80/autonomous-carla-av
+
 ---
 
 ### 📄 AI Resume Analyzer
 
 NLP-powered resume screening and JD matching system.
-
-### Architecture
-
-```mermaid
-flowchart LR
-
-A[Resume]
---> B[Text Extraction]
-
-B --> C[TF-IDF]
-
-B --> D[Semantic Embeddings]
-
-C --> E[Matching Engine]
-
-D --> E
-
-E --> F[Gemini Recommendations]
-
-F --> G[JSON Output]
-```
 
 ### Highlights
 
@@ -306,16 +242,6 @@ F --> G[JSON Output]
 | Machine Learning Professional Certificate | IBM |
 | Career Essentials in Generative AI | Microsoft & LinkedIn |
 
-### Recognition
-
-🏆 Oracle Certified Professional
-
-🌍 Open Source Contributor
-
-💼 AI/ML Engineering Internship Experience
-
-🎓 CGPA 9.24
-
 ---
 
 ## 🔭 Currently Building
@@ -354,7 +280,6 @@ F --> G[JSON Output]
 </div>
 
 ---
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -374,13 +299,17 @@ F --> G[JSON Output]
 <a href="https://github.com/devendrakushwah80">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+</div>
+
 ---
 
-<div align="center">
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:58A6FF,100:7C3AED&section=footer"/>
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:58A6FF,100:7C3AED&section=footer"/>
+<div align="center">
 
 ### 💡 Building Production AI Systems, One Project at a Time
 
 </div>
-```
