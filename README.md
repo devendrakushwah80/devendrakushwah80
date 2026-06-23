@@ -216,21 +216,18 @@ NLP-powered resume screening and JD matching system.
 
 <div align="center">
 
-| Repository | Contribution | Status |
-|------------|-------------|--------|
-| docker/docs | Documentation fixes & improvements | ✅ Merged |
-| scikit-image/scikit-image | Bug fixes & documentation enhancements | ✅ Merged |
+| Repository | Contribution | Evidence | Status |
+|------------|-------------|----------|--------|
+| [docker/docs](https://github.com/docker/docs) | Fixed broken SSO removal anchor link | [PR #25370](https://github.com/docker/docs/pull/25370) | ✅ Merged |
+| [docker/docs](https://github.com/docker/docs) | Fixed broken convert account link in organization FAQs | [PR #25384](https://github.com/docker/docs/pull/25384) | ✅ Merged |
+| [docker/docs](https://github.com/docker/docs) | Fixed broken Windows permission requirements link | [PR #25402](https://github.com/docker/docs/pull/25402) | ✅ Merged |
+| [docker/docs](https://github.com/docker/docs) | Clarified volume mount wording in Persist DB tutorial | [PR #25405](https://github.com/docker/docs/pull/25405) | ✅ Merged |
+| [docker/docs](https://github.com/docker/docs) | Clarified Docker driver support for cache backends | [PR #25397](https://github.com/docker/docs/pull/25397) | 🟡 Open |
+| [scikit-image/scikit-image](https://github.com/scikit-image/scikit-image) | Improved `channel_as_last_axis` validation and error handling | [PR #8062](https://github.com/scikit-image/scikit-image/pull/8062) | 🟡 Open |
 
 </div>
 
-### Focus Areas
-
-- Documentation Quality
-- Developer Experience
-- Reproducibility
-- Open Source Tooling
-- ML Ecosystem Contributions
-
+**Open Source Focus:** Documentation Engineering • Developer Experience • Bug Investigation • Validation Logic • Technical Writing
 ---
 
 ## 🏆 Certifications & Recognition
