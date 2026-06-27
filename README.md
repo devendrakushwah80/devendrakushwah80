@@ -218,7 +218,7 @@ NLP-powered resume screening and JD matching system.
 | Repository | Impact | Evidence |
 |------------|--------|----------|
 | [docker/docs](https://github.com/docker/docs) | **5 merged PRs** and **2 active PRs** contributing documentation improvements, broken link fixes, OpenVEX documentation, Windows deployment guidance, and cache backend clarification. | [Latest Merged PR #25436](https://github.com/docker/docs/pull/25436) • [Open PR #25424](https://github.com/docker/docs/pull/25424) • [All Contributions](https://github.com/docker/docs/pulls?q=is%3Apr+author%3Adevendrakushwah80) |
-| [scikit-image/scikit-image](https://github.com/scikit-image/scikit-image) | Improved `channel_as_last_axis` validation and error handling in a core utility module. | [PR #8062](https://github.com/scikit-image/scikit-image/pull/8062) |
+
 
 </div>
 ```
