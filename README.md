@@ -43,12 +43,7 @@
 
 ## 🧠 About Me
 
-I build end-to-end machine learning systems spanning data pipelines, model development, deployment infrastructure, and production serving.
-
-My work focuses on Machine Learning, Computer Vision, MLOps, Retrieval-Augmented Generation (RAG), Agentic AI, and scalable AI infrastructure.
-
-I enjoy transforming ideas into production-ready systems through engineering-first design, reproducible workflows, automation, and deployment.
-
+I am passionate about building end-to-end AI systems that go beyond model training. My work includes data pipelines, machine learning, deployment, APIs, and production infrastructure. I enjoy exploring Computer Vision, MLOps, Retrieval-Augmented Generation (RAG), and Agentic AI while building scalable, reliable, and reproducible AI applications.
 ---
 
 ## ⚡ Tech Stack
