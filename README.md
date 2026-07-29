@@ -219,14 +219,6 @@ NLP-powered resume screening and JD matching system.
 - Implemented validation and deployment workflows
 - Worked on model experimentation and evaluation
 
-### AI for Sustainability Intern
-
-- Developed RAG-based retrieval systems
-- Designed agentic AI workflows
-- Evaluated responsible AI metrics
-- Conducted factuality and bias assessments
-- Built context-aware retrieval pipelines
-
 ---
 ## 🌍 Open Source Contributions
 
