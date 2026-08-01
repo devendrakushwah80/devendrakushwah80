@@ -190,23 +190,36 @@ Real-time Perception → Planning → Control pipeline built using CARLA.
 🔗 Repository: https://github.com/devendrakushwah80/autonomous-carla-av
 
 ---
+### 🚗 Aegis Eye — Real-Time Autonomous Accident Detection System
 
-### 📄 AI Resume Analyzer
+Production-grade computer vision platform for autonomous traffic accident detection, helmet compliance monitoring, and real-time incident analytics.
 
-NLP-powered resume screening and JD matching system.
+### Key Highlights
+
+| Metric | Value |
+|---------|-------|
+| Inference Pipeline | YOLOv8 + LSTM + MLP Fusion |
+| Feature Engineering | 24 Features |
+| Processing | Real-Time Video Streams |
+| Communication | WebSocket Streaming |
+| Database | SQLite Incident Logging |
+| Deployment | Docker Ready |
 
 ### Highlights
 
-- TF-IDF + semantic similarity scoring
-- Skill-gap detection engine
-- Gemini-powered recommendations
-- PDF/DOCX processing pipeline
-- REST API architecture
+- Multi-model accident detection using YOLOv8, LSTM, and MLP fusion architecture
+- Real-time helmet compliance monitoring with ByteTrack rider association
+- WebSocket-based live dashboard with telemetry, alerts, and interactive maps
+- Automatic evidence recording, snapshot generation, and incident logging
+- DIGIPIN-enabled geolocation for precise accident localization
+- Explainable AI with feature attribution and confidence analysis
+- Modular React + Node.js + Python architecture for scalable deployment
 
 **Tech Stack**
 
-`Python` • `NLP` • `FastAPI` • `Gemini API` • `Hugging Face`
+`Python` • `PyTorch` • `YOLOv8` • `OpenCV` • `React` • `Node.js` • `Express` • `WebSocket` • `SQLite` • `Docker`
 
+🔗 Repository: [https://github.com/devendrakushwah80/<your-repository-name>](https://github.com/devendrakushwah80/AI-Accident-Detection-System)
 ---
 
 ## 💼 Experience
