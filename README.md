@@ -105,24 +105,6 @@ I am passionate about building end-to-end AI systems that go beyond model traini
 
 ---
 
-## 🏗️ Infrastructure & System Design
-
-```text
-User
-  ↓
-API Gateway
-  ↓
-FastAPI Service
-  ↓
-Redis Cache
-  ↓
-ML Inference Layer
-  ↓
-Model Registry
-  ↓
-Storage
-```
-
 ### Engineering Areas
 
 - Docker & Containerization
