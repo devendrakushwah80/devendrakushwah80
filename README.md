@@ -121,6 +121,38 @@ I am passionate about building end-to-end AI systems that go beyond model traini
 ---
 ## 🚀 Featured Projects
 
+### 🚗 Aegis Eye — Real-Time Autonomous Accident Detection System
+
+Production-grade computer vision platform for autonomous traffic accident detection, helmet compliance monitoring, and real-time incident analytics.
+
+### Key Highlights
+
+| Metric | Value |
+|---------|-------|
+| Inference Pipeline | YOLOv8 + LSTM + MLP Fusion |
+| Feature Engineering | 24 Features |
+| Processing | Real-Time Video Streams |
+| Communication | WebSocket Streaming |
+| Database | SQLite Incident Logging |
+| Deployment | Docker Ready |
+
+### Highlights
+
+- Multi-model accident detection using YOLOv8, LSTM, and MLP fusion architecture
+- Real-time helmet compliance monitoring with ByteTrack rider association
+- WebSocket-based live dashboard with telemetry, alerts, and interactive maps
+- Automatic evidence recording, snapshot generation, and incident logging
+- DIGIPIN-enabled geolocation for precise accident localization
+- Explainable AI with feature attribution and confidence analysis
+- Modular React + Node.js + Python architecture for scalable deployment
+
+**Tech Stack**
+
+`Python` • `PyTorch` • `YOLOv8` • `OpenCV` • `React` • `Node.js` • `Express` • `WebSocket` • `SQLite` • `Docker`
+
+🔗 Repository: [https://github.com/devendrakushwah80/<your-repository-name>](https://github.com/devendrakushwah80/AI-Accident-Detection-System)
+---
+
 ### 🏠 EstateIQ — Gurgaon Real Estate ML Platform
 
 End-to-end production machine learning platform for property valuation and intelligent recommendations.
@@ -171,37 +203,6 @@ Real-time Perception → Planning → Control pipeline built using CARLA.
 
 🔗 Repository: https://github.com/devendrakushwah80/autonomous-carla-av
 
----
-### 🚗 Aegis Eye — Real-Time Autonomous Accident Detection System
-
-Production-grade computer vision platform for autonomous traffic accident detection, helmet compliance monitoring, and real-time incident analytics.
-
-### Key Highlights
-
-| Metric | Value |
-|---------|-------|
-| Inference Pipeline | YOLOv8 + LSTM + MLP Fusion |
-| Feature Engineering | 24 Features |
-| Processing | Real-Time Video Streams |
-| Communication | WebSocket Streaming |
-| Database | SQLite Incident Logging |
-| Deployment | Docker Ready |
-
-### Highlights
-
-- Multi-model accident detection using YOLOv8, LSTM, and MLP fusion architecture
-- Real-time helmet compliance monitoring with ByteTrack rider association
-- WebSocket-based live dashboard with telemetry, alerts, and interactive maps
-- Automatic evidence recording, snapshot generation, and incident logging
-- DIGIPIN-enabled geolocation for precise accident localization
-- Explainable AI with feature attribution and confidence analysis
-- Modular React + Node.js + Python architecture for scalable deployment
-
-**Tech Stack**
-
-`Python` • `PyTorch` • `YOLOv8` • `OpenCV` • `React` • `Node.js` • `Express` • `WebSocket` • `SQLite` • `Docker`
-
-🔗 Repository: [https://github.com/devendrakushwah80/<your-repository-name>](https://github.com/devendrakushwah80/AI-Accident-Detection-System)
 ---
 
 ## 💼 Experience
