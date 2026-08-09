@@ -222,7 +222,7 @@ Real-time Perception → Planning → Control pipeline built using CARLA.
 
 | Repository | Impact | Evidence |
 |------------|--------|----------|
-| [docker/docs](https://github.com/docker/docs) | **7 merged PRs** and **2 active PRs** improving Docker documentation through broken link fixes, OpenVEX documentation, Windows deployment guidance, cache backend clarification, volume mount guidance, GitHub immutable identifier clarification, and Model Runner documentation. | [Latest Merged PR #25624](https://github.com/docker/docs/pull/25624) • [All Contributions](https://github.com/docker/docs/pulls?q=is%3Apr+author%3Adevendrakushwah80) |
+| [docker/docs](https://github.com/docker/docs) | **8 merged PRs** and **2 active PRs** improving Docker documentation through broken link fixes, OpenVEX documentation, Windows deployment guidance, cache backend clarification, volume mount guidance, GitHub immutable identifier clarification, and Model Runner documentation. | [Latest Merged PR #25624](https://github.com/docker/docs/pull/25624) • [All Contributions](https://github.com/docker/docs/pulls?q=is%3Apr+author%3Adevendrakushwah80) |
 | [moby/buildkit](https://github.com/moby/buildkit) | **1 merged PR** clarifying `WORKDIR` tilde (`~`) path behavior in Dockerfile documentation, improving documentation accuracy and preventing confusion around shell expansion. | [Merged PR #6937](https://github.com/moby/buildkit/pull/6937) |
 
 </div>
