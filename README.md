@@ -309,6 +309,6 @@ Real-time Perception → Planning → Control pipeline built using CARLA.
 
 <div align="center">
 
-### 💡 Building Production AI Systems, One Project at a Time
+### 💡 Building Production AI Systems
 
 </div>
