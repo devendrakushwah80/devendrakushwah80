@@ -254,16 +254,6 @@ Real-time Perception → Planning → Control pipeline built using CARLA.
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devendrakushwah80&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
